@@ -1,0 +1,16 @@
+
+##
+NET clk LOC = V10 | TNM_NET = sys_clk_pin | IOSTANDARD = "LVCMOS33";
+TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 50000 kHz;
+##
+
+
+##
+NET rst_n                                     LOC = V15 | IOSTANDARD = "LVCMOS33";      ## Reset pushbutton
+##
+
+########LED Pin define#####################
+NET led<0>                        		       LOC = V12 | IOSTANDARD = "LVCMOS33";       ## LED1
+NET led<1>                       	          LOC = T12 | IOSTANDARD = "LVCMOS33";       ## LED2
+NET led<2>                                    LOC = T11 | IOSTANDARD = "LVCMOS33";       ## LED3
+NET led<3>                                    LOC = R11 | IOSTANDARD = "LVCMOS33";       ## LED4

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\chipscope_vio.vhd" Line 97: Assignment to <arg fmt="%s" index="1">logic_0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_async_out.vhd" Line 61: Assignment to <arg fmt="%s" index="1">logic_1</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_async_out.vhd" Line 62: Assignment to <arg fmt="%s" index="1">logic_0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="746" delta="new" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd" Line 168: Range is empty (null range)
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_output_update_cell.vhd" Line 65: Assignment to <arg fmt="%s" index="1">logic_1</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_output_update_cell.vhd" Line 66: Assignment to <arg fmt="%s" index="1">logic_0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="746" delta="new" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd" Line 229: Range is empty (null range)
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="746" delta="new" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd" Line 242: Range is empty (null range)
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_status.vhd" Line 123: Assignment to <arg fmt="%s" index="1">logic_0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd" Line 87: Net &lt;<arg fmt="%s" index="1">ARM_pulse</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\vio.vhd</arg>&quot; line <arg fmt="%s" index="2">42</arg>: Output port &lt;<arg fmt="%s" index="3">SYNC_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">U0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ASYNC_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">SYNC_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">CLK</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">SYNC_OUT</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">CONTROL_I&lt;0:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">CONTROL_I&lt;3:3&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">CONTROL_IN&lt;2:2&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">CONTROL_IN&lt;34:7&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">DATA_IN</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd</arg>&quot; line <arg fmt="%s" index="2">189</arg>: Output port &lt;<arg fmt="%s" index="3">SHIFT_OUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">GEN_UPDATE_OUT[13].UPDATE_CELL</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Project\AC616\test\verilog\03_ddr_test\mig_39_2\user_design\par\tmp\_cg\_bbx\chipscope_vio_v1_03_a\vio_core.vhd</arg>&quot; line <arg fmt="%s" index="2">214</arg>: Output port &lt;<arg fmt="%s" index="3">DOUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">reset_f_edge</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">ARM_pulse</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">USER_CLK</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ARM</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">U0/I_VIO/U_DATA_OUT</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">vio</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

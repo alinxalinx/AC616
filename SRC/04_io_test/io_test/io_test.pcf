@@ -1,0 +1,164 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Jan 12 16:57:34 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "j4_io<1>" LOCATE = SITE "C6" LEVEL 1;
+COMP "j3_io<18>" LOCATE = SITE "D14" LEVEL 1;
+COMP "j3_io<26>" LOCATE = SITE "B11" LEVEL 1;
+COMP "j7_io<15>" LOCATE = SITE "T3" LEVEL 1;
+COMP "j7_io<23>" LOCATE = SITE "P7" LEVEL 1;
+COMP "j7_io<31>" LOCATE = SITE "P11" LEVEL 1;
+COMP "j7_io<7>" LOCATE = SITE "T7" LEVEL 1;
+COMP "j4_io<2>" LOCATE = SITE "D8" LEVEL 1;
+COMP "j3_io<19>" LOCATE = SITE "C14" LEVEL 1;
+COMP "j3_io<27>" LOCATE = SITE "A11" LEVEL 1;
+COMP "j7_io<16>" LOCATE = SITE "U5" LEVEL 1;
+COMP "j7_io<24>" LOCATE = SITE "N7" LEVEL 1;
+COMP "j7_io<32>" LOCATE = SITE "M10" LEVEL 1;
+COMP "j7_io<8>" LOCATE = SITE "T9" LEVEL 1;
+COMP "j4_io<3>" LOCATE = SITE "C8" LEVEL 1;
+COMP "j3_io<28>" LOCATE = SITE "C10" LEVEL 1;
+COMP "j7_io<17>" LOCATE = SITE "V5" LEVEL 1;
+COMP "j7_io<25>" LOCATE = SITE "P8" LEVEL 1;
+COMP "j7_io<33>" LOCATE = SITE "N9" LEVEL 1;
+COMP "j7_io<9>" LOCATE = SITE "V9" LEVEL 1;
+COMP "j4_io<4>" LOCATE = SITE "B8" LEVEL 1;
+COMP "j3_io<29>" LOCATE = SITE "A10" LEVEL 1;
+COMP "j7_io<18>" LOCATE = SITE "R5" LEVEL 1;
+COMP "j7_io<26>" LOCATE = SITE "U11" LEVEL 1;
+COMP "j4_io<5>" LOCATE = SITE "A8" LEVEL 1;
+COMP "j7_io<19>" LOCATE = SITE "T5" LEVEL 1;
+COMP "j7_io<27>" LOCATE = SITE "V11" LEVEL 1;
+COMP "j4_io<6>" LOCATE = SITE "C7" LEVEL 1;
+COMP "j7_io<28>" LOCATE = SITE "R10" LEVEL 1;
+COMP "j4_io<10>" LOCATE = SITE "C5" LEVEL 1;
+COMP "j4_io<7>" LOCATE = SITE "A7" LEVEL 1;
+COMP "j7_io<29>" LOCATE = SITE "T10" LEVEL 1;
+COMP "j4_io<11>" LOCATE = SITE "A5" LEVEL 1;
+COMP "j4_io<8>" LOCATE = SITE "A6" LEVEL 1;
+COMP "j4_io<12>" LOCATE = SITE "B4" LEVEL 1;
+COMP "j4_io<20>" LOCATE = SITE "L12" LEVEL 1;
+COMP "j4_io<9>" LOCATE = SITE "B6" LEVEL 1;
+COMP "j4_io<13>" LOCATE = SITE "A4" LEVEL 1;
+COMP "j4_io<21>" LOCATE = SITE "L13" LEVEL 1;
+COMP "j4_io<14>" LOCATE = SITE "B3" LEVEL 1;
+COMP "j4_io<22>" LOCATE = SITE "L14" LEVEL 1;
+COMP "j4_io<30>" LOCATE = SITE "U17" LEVEL 1;
+COMP "j4_io<15>" LOCATE = SITE "A3" LEVEL 1;
+COMP "j4_io<23>" LOCATE = SITE "M13" LEVEL 1;
+COMP "j4_io<31>" LOCATE = SITE "U18" LEVEL 1;
+COMP "j4_io<16>" LOCATE = SITE "B2" LEVEL 1;
+COMP "j4_io<24>" LOCATE = SITE "M14" LEVEL 1;
+COMP "j4_io<32>" LOCATE = SITE "T17" LEVEL 1;
+COMP "j6_io<0>" LOCATE = SITE "P17" LEVEL 1;
+COMP "j4_io<17>" LOCATE = SITE "A2" LEVEL 1;
+COMP "j4_io<25>" LOCATE = SITE "N14" LEVEL 1;
+COMP "j4_io<33>" LOCATE = SITE "T18" LEVEL 1;
+COMP "j6_io<1>" LOCATE = SITE "P18" LEVEL 1;
+COMP "j4_io<18>" LOCATE = SITE "K12" LEVEL 1;
+COMP "j4_io<26>" LOCATE = SITE "N15" LEVEL 1;
+COMP "j6_io<2>" LOCATE = SITE "N17" LEVEL 1;
+COMP "j4_io<19>" LOCATE = SITE "K13" LEVEL 1;
+COMP "j4_io<27>" LOCATE = SITE "N16" LEVEL 1;
+COMP "j6_io<3>" LOCATE = SITE "N18" LEVEL 1;
+COMP "j4_io<28>" LOCATE = SITE "P15" LEVEL 1;
+COMP "j6_io<4>" LOCATE = SITE "L15" LEVEL 1;
+COMP "j4_io<29>" LOCATE = SITE "P16" LEVEL 1;
+COMP "j6_io<5>" LOCATE = SITE "L16" LEVEL 1;
+COMP "j3_io<0>" LOCATE = SITE "C17" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "j6_io<6>" LOCATE = SITE "J13" LEVEL 1;
+COMP "j3_io<1>" LOCATE = SITE "C18" LEVEL 1;
+COMP "j6_io<7>" LOCATE = SITE "K14" LEVEL 1;
+COMP "j3_io<2>" LOCATE = SITE "B16" LEVEL 1;
+COMP "j6_io<8>" LOCATE = SITE "H13" LEVEL 1;
+COMP "j3_io<3>" LOCATE = SITE "A16" LEVEL 1;
+COMP "j6_io<9>" LOCATE = SITE "H14" LEVEL 1;
+COMP "j3_io<4>" LOCATE = SITE "C15" LEVEL 1;
+COMP "j3_io<5>" LOCATE = SITE "A15" LEVEL 1;
+COMP "j3_io<6>" LOCATE = SITE "F15" LEVEL 1;
+COMP "j3_io<7>" LOCATE = SITE "F16" LEVEL 1;
+COMP "j3_io<8>" LOCATE = SITE "F14" LEVEL 1;
+COMP "j3_io<9>" LOCATE = SITE "G14" LEVEL 1;
+COMP "j6_io<10>" LOCATE = SITE "H15" LEVEL 1;
+COMP "j6_io<11>" LOCATE = SITE "H16" LEVEL 1;
+COMP "j6_io<12>" LOCATE = SITE "H12" LEVEL 1;
+COMP "j6_io<20>" LOCATE = SITE "K15" LEVEL 1;
+COMP "j6_io<13>" LOCATE = SITE "G13" LEVEL 1;
+COMP "j6_io<21>" LOCATE = SITE "K16" LEVEL 1;
+COMP "j6_io<14>" LOCATE = SITE "M16" LEVEL 1;
+COMP "j6_io<22>" LOCATE = SITE "J16" LEVEL 1;
+COMP "j6_io<30>" LOCATE = SITE "E16" LEVEL 1;
+COMP "j6_io<15>" LOCATE = SITE "M18" LEVEL 1;
+COMP "j6_io<23>" LOCATE = SITE "J18" LEVEL 1;
+COMP "j6_io<31>" LOCATE = SITE "E18" LEVEL 1;
+COMP "j6_io<16>" LOCATE = SITE "L17" LEVEL 1;
+COMP "j6_io<24>" LOCATE = SITE "H17" LEVEL 1;
+COMP "j6_io<32>" LOCATE = SITE "D17" LEVEL 1;
+COMP "j6_io<17>" LOCATE = SITE "L18" LEVEL 1;
+COMP "j6_io<25>" LOCATE = SITE "H18" LEVEL 1;
+COMP "j6_io<33>" LOCATE = SITE "D18" LEVEL 1;
+COMP "j6_io<18>" LOCATE = SITE "K17" LEVEL 1;
+COMP "j6_io<26>" LOCATE = SITE "G16" LEVEL 1;
+COMP "j6_io<19>" LOCATE = SITE "K18" LEVEL 1;
+COMP "j6_io<27>" LOCATE = SITE "G18" LEVEL 1;
+COMP "j6_io<28>" LOCATE = SITE "F17" LEVEL 1;
+COMP "j3_io<10>" LOCATE = SITE "G9" LEVEL 1;
+COMP "j6_io<29>" LOCATE = SITE "F18" LEVEL 1;
+COMP "j3_io<11>" LOCATE = SITE "F9" LEVEL 1;
+COMP "j7_io<0>" LOCATE = SITE "N5" LEVEL 1;
+COMP "j3_io<12>" LOCATE = SITE "B9" LEVEL 1;
+COMP "j3_io<20>" LOCATE = SITE "B14" LEVEL 1;
+COMP "j7_io<1>" LOCATE = SITE "P6" LEVEL 1;
+COMP "j3_io<13>" LOCATE = SITE "A9" LEVEL 1;
+COMP "j3_io<21>" LOCATE = SITE "A14" LEVEL 1;
+COMP "j7_io<10>" LOCATE = SITE "R8" LEVEL 1;
+COMP "j7_io<2>" LOCATE = SITE "T6" LEVEL 1;
+COMP "j3_io<14>" LOCATE = SITE "D9" LEVEL 1;
+COMP "j3_io<22>" LOCATE = SITE "C13" LEVEL 1;
+COMP "j3_io<30>" LOCATE = SITE "D11" LEVEL 1;
+COMP "j7_io<11>" LOCATE = SITE "T8" LEVEL 1;
+COMP "j7_io<3>" LOCATE = SITE "V6" LEVEL 1;
+COMP "j3_io<15>" LOCATE = SITE "C9" LEVEL 1;
+COMP "j3_io<23>" LOCATE = SITE "A13" LEVEL 1;
+COMP "j3_io<31>" LOCATE = SITE "C11" LEVEL 1;
+COMP "j7_io<12>" LOCATE = SITE "M8" LEVEL 1;
+COMP "j7_io<20>" LOCATE = SITE "U8" LEVEL 1;
+COMP "j7_io<4>" LOCATE = SITE "U7" LEVEL 1;
+COMP "j3_io<16>" LOCATE = SITE "F13" LEVEL 1;
+COMP "j3_io<24>" LOCATE = SITE "B12" LEVEL 1;
+COMP "j3_io<32>" LOCATE = SITE "D4" LEVEL 1;
+COMP "rst_n" LOCATE = SITE "V15" LEVEL 1;
+COMP "j7_io<13>" LOCATE = SITE "N8" LEVEL 1;
+COMP "j7_io<21>" LOCATE = SITE "V8" LEVEL 1;
+COMP "j7_io<5>" LOCATE = SITE "V7" LEVEL 1;
+COMP "j4_io<0>" LOCATE = SITE "D6" LEVEL 1;
+COMP "j3_io<17>" LOCATE = SITE "E13" LEVEL 1;
+COMP "j3_io<25>" LOCATE = SITE "A12" LEVEL 1;
+COMP "j3_io<33>" LOCATE = SITE "C4" LEVEL 1;
+COMP "j7_io<14>" LOCATE = SITE "R3" LEVEL 1;
+COMP "j7_io<22>" LOCATE = SITE "N6" LEVEL 1;
+COMP "j7_io<30>" LOCATE = SITE "N10" LEVEL 1;
+COMP "j7_io<6>" LOCATE = SITE "R7" LEVEL 1;
+TIMEGRP sys_clk_pin = BEL "j6_io_reg_0" BEL "j7_io_reg_0" BEL "j7_io_reg_1"
+        BEL "j7_io_reg_2" BEL "j7_io_reg_3" BEL "j7_io_reg_4" BEL
+        "j7_io_reg_5" BEL "j7_io_reg_6" BEL "j7_io_reg_7" BEL "j7_io_reg_8"
+        BEL "j7_io_reg_9" BEL "j7_io_reg_10" BEL "j7_io_reg_11" BEL
+        "j7_io_reg_12" BEL "j7_io_reg_13" BEL "j7_io_reg_14" BEL
+        "j7_io_reg_15" BEL "j7_io_reg_16" BEL "j7_io_reg_17" BEL
+        "j7_io_reg_18" BEL "j7_io_reg_19" BEL "j7_io_reg_20" BEL
+        "j7_io_reg_21" BEL "j7_io_reg_22" BEL "j7_io_reg_23" BEL
+        "j7_io_reg_24" BEL "j7_io_reg_25" BEL "j7_io_reg_26" BEL
+        "j7_io_reg_27" BEL "j7_io_reg_28" BEL "j7_io_reg_29" BEL
+        "j7_io_reg_30" BEL "j7_io_reg_31" BEL "j7_io_reg_32" BEL "timer_0" BEL
+        "timer_1" BEL "timer_2" BEL "timer_3" BEL "timer_4" BEL "timer_5" BEL
+        "timer_6" BEL "timer_7" BEL "timer_8" BEL "timer_9" BEL "timer_10" BEL
+        "timer_11" BEL "timer_12" BEL "timer_13" BEL "timer_14" BEL "timer_15"
+        BEL "timer_16" BEL "timer_17" BEL "timer_18" BEL "timer_19" BEL
+        "timer_20" BEL "timer_21" BEL "timer_22" BEL "timer_23" BEL "timer_24"
+        BEL "timer_25" BEL "timer_26" BEL "timer_27" BEL "timer_28" BEL
+        "timer_29" BEL "timer_30" BEL "timer_31" BEL "clk_BUFGP/BUFG";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 50 MHz HIGH 50%;
+SCHEMATIC END;
+

@@ -1,0 +1,67 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Project\AX516\CD\09_VERILOG\04_led_test
+T_opt
+V4m@4LcS03jZg]?BT0^G_O0
+04 12 4 work vtf_led_test fast 0
+04 4 4 work glbl fast 0
+=1-2c534a00823e-561bb262-124-2114
+o-quiet -auto_acc_if_foreign -work work -L xilinxcorelib_ver -L unisims_ver -L unimacro_ver -L secureip +acc
+n@_opt
+OL;O;10.1c;51
+vglbl
+ID_fMj]QBM>Ecj5LGgB3e62
+VM[9mS]S:KA1i4VeCMX35[3
+Z1 dE:\Project\AX516\CD\09_VERILOG\04_led_test
+Z2 w1381681120
+8C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v
+FC:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v
+L0 5
+Z3 OL;L;10.1c;51
+r1
+31
+Z4 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 4BUMBVf6Tzc2Z4KLdBM[:3
+!s85 0
+!s108 1444655713.917000
+!s107 C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v|
+!s90 -reportprogress|300|C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v|
+vled_test
+Ilc^C=^aUP3K9`L]>Fk;gT3
+VQ1eTR5_5BbOzzbJKi0fN]2
+R1
+w1443145482
+8led_test.v
+Fled_test.v
+L0 7
+R3
+r1
+31
+R4
+!s100 70lOMIULk1i5`=MAlRfK82
+!s108 1444655713.652000
+!s107 led_test.v|
+!s90 -reportprogress|300|led_test.v|
+!i10b 1
+!s85 0
+vvtf_led_test
+I>jdAWoaOMIFFOen29F3Mm1
+VU@c^X^fW:NW:LZi_H5Biz1
+R1
+w1438252094
+8testbench/vtf_led_test.v
+Ftestbench/vtf_led_test.v
+L0 25
+R3
+r1
+31
+R4
+!s100 cen4hTET<AV:JnUB;ZEQb1
+!s108 1444655713.792000
+!s107 testbench/vtf_led_test.v|
+!s90 -reportprogress|300|testbench/vtf_led_test.v|
+!i10b 1
+!s85 0
